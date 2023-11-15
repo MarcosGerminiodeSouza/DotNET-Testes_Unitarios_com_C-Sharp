@@ -1,4 +1,12 @@
-# DIO - Trilha .NET - Testes Unitários com C#
+# Teste Unitários com C#
+
+Implementando Validações de Testes Unitários com C#
+
+## Desafio DIO
+
+Este projeto é um desafio proposto na plataforma Digital Inovation One
+
+## DIO - Trilha .NET - Testes Unitários com C#
 www.dio.me
 
 ## Desafio de projeto
